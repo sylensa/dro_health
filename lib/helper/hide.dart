@@ -1,8 +1,8 @@
-const base = "https://api.solon.app/";
-const authority = "https://api.solon.app/";
-const imgBase = "https://api.solon.app/assets/images/product";
+const base = "url";
+const authority = "url";
+const imgBase = "url";
 const hsVendor = 88;
-String mapKey = 'AIzaSyAF98xSnTXRPZBrrQwEonH2uCz_usc7_pY';
+String mapKey = 'key';
 var authorizationKey = "";
 var headers = {"authorization": "Bearer " + authorizationKey};
 
